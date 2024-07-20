@@ -7,7 +7,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fotor.com%2Fpt%2Fgerador-de-imagens-ai%2F&psig=AOvVaw3QYOELnXjbY8R0OKFz2I9b&ust=1721531675494000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDIvbLTtIcDFQAAAAAdAAAAABAE.png"/>
+
 
 ###
 
